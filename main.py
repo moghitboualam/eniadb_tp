@@ -1,3 +1,3 @@
 print("Bonjour le monde!")
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Salut, {name}!"
